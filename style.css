@@ -1,0 +1,87 @@
+
+
+li {
+    font-size: 19px;
+}
+
+body {
+    width: 70%;
+    margin-bottom: 15%;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.head-title {
+    font-size: 25px;
+    margin-top: -25%;
+}
+
+.cat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 5px;
+}
+
+.tree-home {
+    width: 40%;
+    border-radius: 5px;
+    margin-top: 70px;
+    position: absolute;
+}
+
+.about-myself {
+    margin-top: 90px;
+   width: 40%;
+    margin-left: auto;
+ 
+}
+
+.login-p {
+    
+    margin-left: 45%;
+    width: 50%;
+    margin-top: 25%;
+    border-radius: 5%;
+    position: absolute;
+}
+
+.login-t {
+    margin-top: 2%;
+    width: 40%;
+
+}
+
+.git-icon {
+    width: 20%;
+    
+    position: relative;
+}
+
+.side-li {
+    margin-left: 35%;
+    margin-top: -18%;
+}
+
+.linha {
+    margin-top: 30%;
+
+    
+}
+
+.mygit {
+    margin-top: 15%;
+    margin-left: 100%;
+    width: 10%;
+    
+}
+
+.proj-t{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 40%;
+}
